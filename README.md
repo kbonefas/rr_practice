@@ -25,5 +25,5 @@ Here is some more text to describe markdown
 2. Fold paper in half down the height (11"). Unfold.
 3. Fold top two corners into the center line, creating a triangle
 4. Fold paper in half again down the height
-5. Put fingers on closed edge. Open each side by folding out until you reach the height of your fingers
+5. Put fingers on closed edge. Open each side by folding them down perpendicular, until you reach the height of your fingers
 6. Celebrate
